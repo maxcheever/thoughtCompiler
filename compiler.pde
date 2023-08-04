@@ -1,7 +1,7 @@
 /** 
  * 
  * This is currently a WIP
- * Takes a journal entry (or any text) and compiles to color or brightness
+ * Takes a journal entry (or any text) and compiles to color
  *
  */
 
@@ -20,7 +20,7 @@ String entry; // entry to be compiled
 int[] params;
 
 void settings() {
-  String[] file = loadStrings("5-19.txt"); // read file
+  String[] file = loadStrings("journal-entry.txt"); // read file
   entry = String.join("", file);
   params = getCanvasParams(entry.length());
   size(params[0]*40, params[1]*25);
@@ -31,7 +31,7 @@ void setup() {
   colorMode(RGB, numChars);
   background(numChars/2);
   // set a color value for each key
-  // this can be heavily modified to change the gamut (i.e. use HSB with (i, 59, 59), etc.)
+  // this can be modified to change the gamut (i.e. using HSB with (i, 59, 59) gives bright colors across the visible spectrum, etc.)
   for (int i = 0; i < numChars; i++) {
     colors[i] = color(i, i, i);
   }
@@ -78,7 +78,7 @@ void typeChar(int key)
     fill(colors[keyIndex]);
     newletter = true;
 
-    // wpdate the "letter" position
+    // update the "letter" position
     x = ( x + letterWidth );
 
     // wrap horizontally

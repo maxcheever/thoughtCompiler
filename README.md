@@ -6,6 +6,6 @@ A compiler is meant to perform a transformation from a high-level source program
 
 Like a high level programming language, language is something that is understood by those who use it. It requires a certain amount of cognitive effort to engage with a language. Here I am trying to "compile" my use of language to an asssembly-like representation for the human mind, capable of being understood without knowledge of a language. It is in this way that I attempt to treat the mind like a machine, breaking down language to a simpler form that can be understood by all minds.
 
-I will be updating this readme with an example of how I use this program by sunday, 8/6
+I will be updating this readme with an example of how I use this program by sunday, 8/6/23
 
 I was inspired to create this work after seeing ['Color Typewriter' by John Maeda](https://www.ntticc.or.jp/en/archive/works/color-typewriter/). The program itself is a heavily modified adaptation of [Keyboard Functions by Martin Gomez](https://processing.org/examples/keyboardfunctions.html)

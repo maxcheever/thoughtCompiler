@@ -1,6 +1,6 @@
 # Thought Compiler
 
-The goal here is to provide respresentation of my thoughts that are capable of being understood without effort by a human mind. 
+The goal here is to provide respresentations of my thoughts that are capable of being understood without effort by a human mind or knowledge of any language. 
 
 A compiler is meant to perform a transformation from a high-level source program understood by a programmer to a low-level target program understood by the machine. This program is meant to serve as a compiler for my journal entries, transforming them from written language to color.
 

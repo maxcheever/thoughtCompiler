@@ -46,7 +46,7 @@ void draw() {
     } else {
       // random character if extra space was added to preserve aspect ratio
       // this will rarely be executed many times, if at all
-      typeChar(int(random(59)));
+      typeChar((int) random(59));
     }
  
     if (newletter == true) {

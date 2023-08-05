@@ -5,8 +5,8 @@
  *
  */
 
-int letterHeight = 25; // height of the letters
-int letterWidth = 40;  // width of the letter
+int letterHeight = 20; // height of the letters
+int letterWidth = 20;  // width of the letter
 
 int x = -letterWidth; // X position of the letters
 int y = 0;            // Y position of the letters
@@ -23,7 +23,7 @@ void settings() {
   String[] file = loadStrings("journal-entry.txt"); // read file
   entry = String.join("", file);
   params = getCanvasParams(entry.length());
-  size(params[0]*40, params[1]*25);
+  size(params[0]*20, params[1]*20);
 }
 
 void setup() {

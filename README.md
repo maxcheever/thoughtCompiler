@@ -19,6 +19,4 @@ If we tweak the settings to be HSB(i, numChars, numChars), we get something quit
   <img src="test2.png" alt="drawing2" style="width:500px;"/>
 </p>
 
-As was demonstrated here, there are many things that can be created with this program and there are a large range of customizations that can be applied to tailor an output.
-
 I was inspired to create this work after seeing ['Color Typewriter' by John Maeda](https://www.ntticc.or.jp/en/archive/works/color-typewriter/). The program itself is a heavily modified adaptation of [Keyboard Functions by Martin Gomez](https://processing.org/examples/keyboardfunctions.html)

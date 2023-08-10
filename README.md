@@ -30,4 +30,4 @@ One can imagine that with a large enough input, an image (or more likely, very i
 <br>
 
 
-I was inspired to create this work after seeing ['Color Typewriter' by John Maeda](https://www.ntticc.or.jp/en/archive/works/color-typewriter/). The program itself is a heavily modified adaptation of [Keyboard Functions by Martin Gomez](https://processing.org/examples/keyboardfunctions.html)
+I was inspired to create this after seeing ['Color Typewriter' by John Maeda](https://www.ntticc.or.jp/en/archive/works/color-typewriter/) and ['Dither Studies: Hand Renders' by Daniel Temkin](https://danieltemkin.com/DitherStudies/HandRenders/). The program itself is a heavily modified adaptation of [Keyboard Functions by Martin Gomez](https://processing.org/examples/keyboardfunctions.html)

@@ -23,6 +23,11 @@ Now, If we want to get *really* crazy we can change the color settings to RBG(ra
 <p align="center">
   <img src="test3.png" alt="drawing" style="width:700px;"/>
 </p>
+One can imagine that with a large enough input, an image (or more likely, very interesting tv static) can be created by these pixels
+
+<br>
+<br>
+<br>
 
 
 I was inspired to create this work after seeing ['Color Typewriter' by John Maeda](https://www.ntticc.or.jp/en/archive/works/color-typewriter/). The program itself is a heavily modified adaptation of [Keyboard Functions by Martin Gomez](https://processing.org/examples/keyboardfunctions.html)

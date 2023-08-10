@@ -23,7 +23,7 @@ Now, If we want to get *really* crazy we can change the color settings to RBG(ra
 <p align="center">
   <img src="test3.png" alt="drawing" style="width:700px;"/>
 </p>
-One can imagine that with a large enough input, an image (or more likely, very interesting tv static) can be created by these pixels
+One can imagine that with a large enough input, an image (or more likely, very interesting muddy grey) can be created by these pixels
 
 <br>
 <br>

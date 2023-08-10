@@ -19,4 +19,10 @@ If we tweak the settings to be HSB(i, numChars, numChars), we get something quit
   <img src="test2.png" alt="drawing2" style="width:500px;"/>
 </p>
 
+Now, If we want to get *really* crazy we can change the color settings to RBG(random(numChars), random(numChars), random(numChars)) (random color for each character), make letterWidth = letterHeight = 1, and use a 1286711 character input (in this case I took the same 22977 character input and repeated it):
+<p align="center">
+  <img src="test3.png" alt="drawing" style="width:700px;"/>
+</p>
+
+
 I was inspired to create this work after seeing ['Color Typewriter' by John Maeda](https://www.ntticc.or.jp/en/archive/works/color-typewriter/). The program itself is a heavily modified adaptation of [Keyboard Functions by Martin Gomez](https://processing.org/examples/keyboardfunctions.html)

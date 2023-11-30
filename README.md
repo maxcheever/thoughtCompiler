@@ -19,9 +19,14 @@ If we tweak the settings to be HSB(i, numChars, numChars), we get something quit
   <img src="test2.png" alt="drawing2" style="width:500px;"/>
 </p>
 
+If we slide the gamut all the way to the right with HSB(i+50, numChars, numChars), we can assign 50 of the colors to red (59) and 9 of them to colors preceeding red to get some pretty impressive depth (any number over 59 gets assigned 59). Note that I am using the entirety of *Dada Manifesto 1918* in this example:
+<p align="center">
+  <img src="dm1918c.png" alt="drawing3" style="width:800px;"/>
+</p>
+
 Now, If we want to get *really* crazy we can change the color settings to RBG(random(numChars), random(numChars), random(numChars)) (random color for each character), make letterWidth = letterHeight = 1, and use a 1286711 character input (in this case I took the same 22977 character input and repeated it):
 <p align="center">
-  <img src="test3.png" alt="drawing" style="width:700px;"/>
+  <img src="test3.png" alt="drawing4" style="width:800px;"/>
 </p>
 One can imagine that with a large enough input, an image (or more likely, very interesting muddy grey) can be created by these pixels
 

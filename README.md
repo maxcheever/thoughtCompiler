@@ -1,6 +1,6 @@
 # Thought Compiler
 
-The goal here is to provide representations of language that are capable of being understood without effort by a human mind or knowledge of any language. 
+The goal of this program is to provide representations of language that are capable of being understood without effort by a human mind or knowledge of any language. 
 
 A compiler is meant to perform a transformation from a high-level source program understood by a programmer to a low-level target program understood by the machine. I wrote this program with the intention of using it as a "compiler" for my journal entries, transforming them from written language to color.
 
@@ -35,4 +35,4 @@ One can imagine that with a large enough input, an image (or more likely, very i
 <br>
 
 
-I was inspired to create this after seeing ['Color Typewriter' by John Maeda](https://www.ntticc.or.jp/en/archive/works/color-typewriter/) and ['Dither Studies: Hand Renders' by Daniel Temkin](https://danieltemkin.com/DitherStudies/HandRenders/). The program itself is a heavily modified adaptation of [Keyboard Functions by Martin Gomez](https://processing.org/examples/keyboardfunctions.html)
+I was inspired to create this after seeing ['Color Typewriter' by John Maeda](https://www.ntticc.or.jp/en/archive/works/color-typewriter/) and ['Dither Studies: Hand Renders' by Daniel Temkin](https://danieltemkin.com/DitherStudies/HandRenders/). The program itself is a heavily modified adaptation of [Keyboard Functions by Martin Gomez](https://processing.org/examples/keyboardfunctions.html). A compilation of journal entries titled "9-21-1-10-24-3" is currently on display as part of the Keller Collective Gallery's juried group exhibition *Interconnected Learning Landscapes* until January 2024 in University Park, PA.
